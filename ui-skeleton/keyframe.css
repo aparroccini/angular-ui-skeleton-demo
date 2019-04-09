@@ -1,0 +1,20 @@
+		@-webkit-keyframes AnimationName {
+		    0%{background-position:0% 4%}
+		    50%{background-position:100% 97%}
+		    100%{background-position:0% 4%}
+		}
+		@-moz-keyframes AnimationName {
+		    0%{background-position:0% 4%}
+		    50%{background-position:100% 97%}
+		    100%{background-position:0% 4%}
+		}
+		@-o-keyframes AnimationName {
+		    0%{background-position:0% 4%}
+		    50%{background-position:100% 97%}
+		    100%{background-position:0% 4%}
+		}
+		@keyframes AnimationName { 
+		    0%{background-position:0% 4%}
+		    50%{background-position:100% 97%}
+		    100%{background-position:0% 4%}
+		}

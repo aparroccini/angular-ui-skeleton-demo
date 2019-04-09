@@ -1,0 +1,18 @@
+.ghost main .left-column {
+		width: 25%;
+		border: 1px solid var(--border-color);
+		background: var(--main-bg-color);
+		height: 400px;
+		margin-right: 5%;
+		-webkit-box-shadow: 6px 2px 24px -10px rgba(0,0,0,0.3);
+		-moz-box-shadow: 6px 2px 24px -10px rgba(0,0,0,0.3);
+		box-shadow: 6px 2px 16px -10px rgba(0,0,0,0.3);
+		border-radius: 3px;
+
+		background: linear-gradient(138deg, #ffffff, #f3f3f3);
+		background-size: 400% 400%;
+		-webkit-animation: AnimationName 1.3s  ease infinite;
+		-moz-animation: AnimationName 1.3s  ease infinite;
+		-o-animation: AnimationName 1.3s  ease infinite;
+		animation: AnimationName 1.3s  ease infinite;
+	}
